@@ -1,3 +1,5 @@
+![alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*s89FAPFv_uaicg4SUzuo2g.jpeg)
+
 # Desvendando a Técnica RFM: O Segredo para Conhecer Melhor Seus Clientes e Alavancar Seu Negócio
 
 Imagina que você é o dono de uma loja online de moda e, como qualquer empreendedor, deseja aumentar suas vendas e fidelizar mais clientes. Porém, diante de uma grande base de dados, como entender o comportamento de cada cliente e direcionar suas estratégias de marketing de forma eficaz? A resposta pode estar na análise RFM — uma técnica poderosa que pode transformar completamente sua abordagem de negócios. Vamos explorar o que é a técnica RFM, como implementá-la e, o mais importante, como ela pode ser um divisor de águas para o seu e-commerce.
