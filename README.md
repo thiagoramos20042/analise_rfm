@@ -46,3 +46,33 @@ Critérios: Baixa recência, baixa frequência e baixo valor monetário.
 - Estratégia: Reativar esses clientes com campanhas de reengajamento, como e-mails de saudade, ofertas especiais e descontos agressivos.
 
 # Resultado Obtido aplicando a técnica RFM
+![alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*e0y4dcNuSa36-sGZAZcM0g.png)
+
+# Análise dos Segmentos
+Clientes Em Risco: Representam 23.42% do total de clientes, com aproximadamente 6.000 clientes.
+Clientes Promissores: Constituem 32.83% do total, com aproximadamente 10.000 clientes.
+Clientes Frequentes: Também representam 32.84%, ligeiramente mais do que os Clientes Promissores, com cerca de 10.000 clientes.
+Clientes Premium: Formam 9.47% da base de clientes, totalizando cerca de 3.000 clientes.
+Clientes Novatos: O menor segmento, com 1.45% dos clientes, cerca de 1.000 clientes.
+
+# Insights
+A maioria dos clientes se encontra nos segmentos de Clientes Promissores e Clientes Frequentes, cada um representando aproximadamente um terço do total.
+Os Clientes Em Risco também formam uma parte significativa, cerca de um quarto do total.
+Os Clientes Premium e Clientes Novatos são os segmentos menores, com os Clientes Novatos sendo o menor segmento de todos.
+
+# Transformando a Visão em Ação
+A análise RFM não é apenas uma técnica sofisticada; ela é uma ferramenta prática que qualquer negócio pode utilizar para transformar dados em insights acionáveis. Para João, os resultados da análise RFM não são apenas números em uma planilha, mas um mapa claro de onde focar seus esforços de marketing. Ele agora sabe quais clientes precisam de mais atenção, quais são os mais valiosos e onde estão as oportunidades para crescimento.
+
+Imagine o impacto disso no seu negócio. Com uma compreensão mais profunda do comportamento do cliente, você pode:
+
+- Personalizar campanhas de marketing: Direcionar mensagens específicas para diferentes segmentos de clientes aumenta a probabilidade de conversão.
+- Fidelizar clientes: Oferecer benefícios exclusivos para clientes premium e frequentes promove lealdade e aumenta o lifetime value do cliente.
+- Reativar clientes inativos: Implementar campanhas de reengajamento para trazer de volta clientes que não compram há algum tempo.
+- Otimizar recursos de marketing: Focar nos segmentos certos significa gastar menos e obter mais retorno.
+
+# Conclusão
+A análise RFM é uma técnica poderosa para qualquer negócio que deseja entender melhor seus clientes e otimizar suas estratégias de marketing. Ao segmentar os clientes com base na recência, frequência e valor monetário, você pode criar campanhas mais eficazes, melhorar o engajamento e aumentar o valor do cliente. Implementar essa técnica com Python é simples e pode trazer insights valiosos que transformam seu negócio.
+
+Experimente a análise RFM em seu e-commerce e veja como ela pode revolucionar a maneira como você se conecta com seus clientes!
+
+
